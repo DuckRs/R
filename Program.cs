@@ -1,6 +1,6 @@
 using EloBuddy;
 
-namespace Leblonk.Activator
+namespace leblanRc.Activator
 {
     public enum CastType { Targeted, Skillshot, SelfCast }
     public enum ItemType { Offensive, Defensive, Healing, ManaRestore, Cleanse }
